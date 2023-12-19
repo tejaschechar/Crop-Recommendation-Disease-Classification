@@ -28,6 +28,38 @@ Libraries:
 
 ## How to Use 💻
 
+### Prerequisites
+1. Install Anaconda or Miniconda to create a virtual environment in VS Code.
+
+### Installation
+2. Download the ZIP file or fork the repository to your local device.
+
+### Setting up Virtual Environment
+3. Open VS Code and create a virtual environment using Anaconda or Miniconda:
+
+   ```bash
+   conda create --name your_env_name python=3.10
+   conda activate your_env_name
+
+  ## Installing Dependencies
+
+4. Navigate to the project directory and install the required packages using the provided `requirements.txt`:
+
+   ```bash
+   pip install -r requirements.txt
+
+## Running the Application
+
+5. Run the application by executing the `app.py` file located in the `app` folder:
+
+  ```bash
+  python app/app.py
+
+- This will start the application, and you can access it through your web browser.
+
+
+
+
 ### Crop Recommendation System
 
 1. Enter the corresponding nutrient values of your soil, state, and city.
