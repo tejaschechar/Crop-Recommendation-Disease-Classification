@@ -64,4 +64,36 @@ Libraries:
   - Tomato
 </details>
 
+## How to run locally 🛠️
+
+## DEMO
+
+- ### Crop recommendation system
+
+
+
+- ### Fertilizer suggestion system
+
+
+
+
+- ### Disease Detection system
+
+
+## Usage ⚙️
+
+You are welcome to use this project for further development and contribute to its enhancement. If you find this project useful, kindly acknowledge the original source by mentioning it and include a link to this repository in your reports or documentation.
+
+## Further Improvements 📈
+
+While this project serves as a significant milestone, there are several areas for improvement:
+- Enhancements can be made to the frontend design 
+- Manual data collection via web scraping can improve the system's accuracy :monocle_face:
+- Collecting additional plant images will enhance the robustness and generalization of the disease detection module :face_with_head_bandage:
+
+
+## Credits 💳
+
+This project draws inspiration from **[this GitHub repository](https://github.com/Gladiator07/Harvestify.git)**, particularly in the crop recommendation and fertilizer recommendation parts. This project represents an extended version of the mentioned repository. Please consider giving a star to the original repository.
+
 
