@@ -97,16 +97,24 @@ Libraries:
 
 ## DEMO
 
+![Screenshot 2023-12-19 223624](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/5b3704c7-9271-4c2b-a1e1-5921c48be041)
+
 - ### Crop recommendation system
+![crop1](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/aeeb7f1f-f64a-47b2-82ea-aa2abc600df2)
+![crop2](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/37799f89-5a54-4b20-a7c6-81ab6869c99b)
 
 
 
 - ### Fertilizer suggestion system
+![fertilizer1](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/5ed4f04c-fb49-4eb4-a445-3d2b737c7eaa)
 
+![fertilizer2](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/49d08fb0-7c11-4665-b81d-a4f5c9e8a9fb)
 
 
 
 - ### Disease Detection system
+![disease1](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/9e374054-f287-4038-a1c4-89eb3c620659)
+![disease2](https://github.com/tejaschechar/Crop-Recommendation-Disease-Classification/assets/111494723/4f2daeab-1acb-48e2-a8ed-f18404e7f82c)
 
 
 ## Usage ⚙️
