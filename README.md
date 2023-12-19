@@ -55,7 +55,7 @@ Libraries:
   ```bash
   python app/app.py
 
-- This will start the application, and you can access it through your web browser.
+This will start the application, and you can access it through your web browser.
 
 
 
