@@ -41,14 +41,14 @@ Libraries:
    conda create --name your_env_name python=3.10
    conda activate your_env_name
 
-  ## Installing Dependencies
+## Installing Dependencies
 
 4. Navigate to the project directory and install the required packages using the provided `requirements.txt`:
 
    ```bash
    pip install -r requirements.txt
 
-## Running the Application
+   ## Running the Application
 
 5. Run the application by executing the `app.py` file located in the `app` folder:
 
