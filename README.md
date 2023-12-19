@@ -1,7 +1,5 @@
 # Crop-Recommendation-Disease-Classification
 
-# Precision Farming Assistant
-
 ## Disclaimer ⚠️
 This project is a Proof of Concept (POC), and the data used comes with no guarantee from the creator. Do not use it for making farming decisions. The creator is not responsible for any consequences. This project aims to demonstrate the integration of Machine Learning (ML) and Deep Learning (DL) into precision farming.
 
