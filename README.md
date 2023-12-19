@@ -49,12 +49,12 @@ Libraries:
    pip install -r requirements.txt
 
 ## Running the Application
+
 5. Run the application by executing the `app.py` file located in the `app` folder:
 
-  ```bash
-  python app/app.py
+   ```bash
+   python app/app.py
 
-This will start the application, and you can access it through your web browser.
 
 
 ### Crop Recommendation System
